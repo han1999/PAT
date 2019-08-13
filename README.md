@@ -1,2 +1,2 @@
-# PAT-A
-PAT甲级题库
+# PAT-B
+PAT乙级题库
